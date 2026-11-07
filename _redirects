@@ -1,0 +1,3 @@
+/order    https://example-affiliate-hoplink.com/skinrenewpro-srp    302
+/order/   https://example-affiliate-hoplink.com/skinrenewpro-srp    302
+/order/*  https://example-affiliate-hoplink.com/skinrenewpro-srp    302

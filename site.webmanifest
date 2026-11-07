@@ -1,0 +1,16 @@
+{
+ "name": "SkinRenew Pro Notebook",
+ "short_name": "SkinRenew Pro",
+ "description": "Independent information and ordering website for SkinRenew Pro liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#FFF4EC",
+ "theme_color": "#9C5320",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
