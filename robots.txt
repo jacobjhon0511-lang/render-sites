@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /order
+
+User-agent: bingbot
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+
+Host: sugardefender.onrender.com
+Sitemap: https://sugardefender.onrender.com/sitemap.xml
+Sitemap: https://sugardefender.onrender.com/sitemap-images.xml
