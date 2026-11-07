@@ -1,0 +1,4 @@
+Contact: mailto:hello@breathizen.com
+Expires: 2027-10-12T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://breathizen-us.onrender.com/.well-known/security.txt
