@@ -1,0 +1,3 @@
+/order    https://example-affiliate-hoplink.com/burntide-btd    302
+/order/   https://example-affiliate-hoplink.com/burntide-btd    302
+/order/*  https://example-affiliate-hoplink.com/burntide-btd    302

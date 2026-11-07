@@ -1,0 +1,16 @@
+{
+ "name": "Burntide Notebook",
+ "short_name": "Burntide",
+ "description": "Independent information and ordering website for Burntide liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#FFF6E8",
+ "theme_color": "#C2490A",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
