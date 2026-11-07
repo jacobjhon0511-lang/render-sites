@@ -1,0 +1,16 @@
+{
+ "name": "Brainwave Protocol Notebook",
+ "short_name": "Quantum Brainwave Protocol",
+ "description": "Independent information and ordering website for Quantum Brainwave Protocol liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#EEF7FD",
+ "theme_color": "#0B6FB5",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
