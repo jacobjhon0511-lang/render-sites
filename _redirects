@@ -1,0 +1,3 @@
+/order    https://example-affiliate-hoplink.com/nervecept-ncp    302
+/order/   https://example-affiliate-hoplink.com/nervecept-ncp    302
+/order/*  https://example-affiliate-hoplink.com/nervecept-ncp    302

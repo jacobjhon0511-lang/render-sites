@@ -1,0 +1,16 @@
+{
+ "name": "Nervecept Notebook",
+ "short_name": "Nervecept",
+ "description": "Independent information and ordering website for Nervecept liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#F4F2FD",
+ "theme_color": "#4A3CB8",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
