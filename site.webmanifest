@@ -1,0 +1,16 @@
+{
+ "name": "Trimology Notebook",
+ "short_name": "Trimology",
+ "description": "Independent information and ordering website for Trimology liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#F4FAEA",
+ "theme_color": "#3F7A16",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}

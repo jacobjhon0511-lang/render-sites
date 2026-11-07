@@ -1,0 +1,4 @@
+/* SITE */
+Name: Trimology Notebook (trimology.onrender.com)
+Role: Independent information and ordering website
+Last update: 2026-11-05
