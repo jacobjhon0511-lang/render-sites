@@ -1,0 +1,4 @@
+Contact: mailto:hello@blackwoodtea.com
+Expires: 2027-10-12T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://blackwoodtea.onrender.com/.well-known/security.txt
