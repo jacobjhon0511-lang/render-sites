@@ -1,0 +1,21 @@
+# Nerve Alive (nervealive.onrender.com)
+
+> Independent information and ordering website for Nerve Alive, a herbal dietary supplement capsule for adult men (60 capsules per bottle) offered to support energy, stamina and everyday vitality.
+
+## Key facts
+- Named ingredients: Benfotiamine, Methylcobalamin, Alpha-Lipoic Acid, Acetyl-L-Carnitine, Magnesium Glycinate, Turmeric, Capsaicin, Passionflower, Feverfew (amounts are on the bottle panel)
+- Directions: two capsules daily with water, preferably with a meal
+- Packs (USD): 2 bottles $69 each ($138 plus shipping); 3 bottles $59 each ($177 plus shipping); 6 bottles $49 each ($294, free US shipping); two bonus eBooks listed with the 6-bottle pack
+- One-time purchase; 60-day money-back guarantee, subject to the terms shown at checkout
+- Not a treatment for neuropathy, diabetes or any condition; adults only; tingling or numbness needs a doctor first; ask a doctor if taking diabetes, blood-thinning, thyroid, seizure or sedative medicine
+
+## Pages
+- [Home](https://nervealive.onrender.com/)
+- [About Nerve Alive](https://nervealive.onrender.com/about-nerve-alive.html)
+- [Benefits](https://nervealive.onrender.com/nerve-alive-benefits.html)
+- [How It Works](https://nervealive.onrender.com/how-nerve-alive-works.html)
+- [Ingredients](https://nervealive.onrender.com/nerve-alive-ingredients.html)
+- [Reviews](https://nervealive.onrender.com/nerve-alive-reviews.html)
+- [Pricing](https://nervealive.onrender.com/nerve-alive-pricing.html)
+- [FAQ](https://nervealive.onrender.com/nerve-alive-faq.html)
+- [Blog](https://nervealive.onrender.com/blog/index.html)
