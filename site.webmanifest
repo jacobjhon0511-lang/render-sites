@@ -1,0 +1,16 @@
+{
+ "name": "GlucoTrust Bites Notebook",
+ "short_name": "GlucoTrust Bites",
+ "description": "Independent information and ordering website for GlucoTrust Bites liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#F2FAF4",
+ "theme_color": "#2F7D4F",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
