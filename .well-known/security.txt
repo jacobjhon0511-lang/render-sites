@@ -1,0 +1,4 @@
+Contact: mailto:support@horsewood.com
+Expires: 2027-10-27T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://horsewood.onrender.com/.well-known/security.txt
